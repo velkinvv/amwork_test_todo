@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "Segoe UI";
+  src: local("Segoe UI"),
+  url("./assets/fonts/SegoeUI.ttf") format("truetype");
+  font-weight: normal;
+}
+
+:root {
+  font-family: -apple-system, 'system-ui', 'BlinkMacSystemFont', 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  background-color: #f6f5f5;
+}
